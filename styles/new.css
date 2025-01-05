@@ -7,14 +7,12 @@
     padding: 2rem 5rem;
     display: grid;
     grid-template-columns: repeat(3,1fr);
-    /* justify-content: space-around; */
     gap:2rem;
-    /* text-align: center; */
+    
 }
 .card>img{
-    /* border: 1px solid black; */
-
-
+   
+    margin: auto;
 }
 .card{
     border: 1px solid black;
@@ -27,7 +25,6 @@
     font-size: 28px;
     cursor: pointer;
     color: #666;
-    /* border: 1px solid black; */
     width: 20%;
     margin-left: 80%;
     
