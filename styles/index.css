@@ -217,3 +217,13 @@
     border: 1px solid black;
     width:10%
 }
+
+#footer{
+    margin-top: 20px;
+    /* border-top: 1px solid #34495e; */
+    padding-top: 3rem;
+    font-size: 15px;
+    background-color: lightblue;
+    text-align: center;
+    padding-bottom: 4rem;
+}

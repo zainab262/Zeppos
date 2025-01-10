@@ -11,7 +11,8 @@ let nav = `<div>
                 <input class="upperbtn" type="button" popovertarget="my-popover1" value="LOGIN">
                 <div popover id="my-popover1" class="popup-container"> 
                     <form id="loginform">
-                       
+                        <button class="close-btn" id="logcloseBtn">&times;</button>
+
                         <h3>Login Form</h3>
                         <div class="email">
                             <label for="email">Email :</label>
